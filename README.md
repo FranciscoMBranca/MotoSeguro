@@ -324,14 +324,12 @@ Sugestões úteis:
 ---
 
 ## Licença
-
-Este projeto é open source e pode ser publicado sob uma licença aberta, como MIT. Recomendamos adicionar um ficheiro `LICENSE` ao repositório antes de o publicar oficialmente.
-
+MIT
 ---
 
 ## Autor / contexto
 
-Projeto desenvolvido para demonstração prática de automação e segurança veicular com ESP32, MicroPython, GPS, GSM e lógica de controlo em tempo real.
+Projeto desenvolvido por Francisco Brança demonstração prática de automação e segurança veicular com ESP32, MicroPython, GPS, GSM e lógica de controlo em tempo real.
 
 Se o projeto for usado ou adaptado, o ideal é manter o código livre e documentado, promovendo colaboração e melhoria contínua da solução.
 
