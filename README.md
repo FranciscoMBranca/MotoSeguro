@@ -349,16 +349,6 @@ MotoSeguro é um sistema embarcado para segurança e monitorização de motocicl
 - telemetria em tempo real
 - gestão remota por SMS e dashboard local
 
-Se pretender, também posso criar uma versão mais profissional do README com:
-
-- badges (status, licença, linguagem, hardware)
-- secção de arquitetura em diagramas
-- instruções de instalação mais detalhadas para ESP32 + GSM + GPS
-- versão para GitHub pronta para publicar
-
-
-
-
 ## Preview
 
 <img src="assets/image.png">
