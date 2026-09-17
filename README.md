@@ -1,5 +1,9 @@
 # MotoSeguro
 
+<p align="center">
+  <img src="assets/dashboard-preview.svg" alt="Dashboard do MotoSeguro" width="900" />
+</p>
+
 MotoSeguro é um projeto open source de segurança veicular para motocicletas, desenvolvido em MicroPython para ESP32. O sistema combina monitorização de velocidade, detecção de ignição, GPS, comunicação GSM e um painel web local para permitir controlo remoto e proteção contra roubo.
 
 O objetivo do projeto é oferecer uma solução acessível, educativa e funcional para monitorizar o estado de uma moto e agir automaticamente quando há sinais de roubo, excesso de velocidade ou necessidade de controlo remoto.
@@ -354,3 +358,10 @@ Se pretender, também posso criar uma versão mais profissional do README com:
 - secção de arquitetura em diagramas
 - instruções de instalação mais detalhadas para ESP32 + GSM + GPS
 - versão para GitHub pronta para publicar
+
+
+
+
+## Preview
+
+<img src="assets/image.png">
